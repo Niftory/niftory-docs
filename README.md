@@ -13,7 +13,7 @@ Whether you are trying to build your own digital marketplace, experimenting with
 
 The Niftory platform consists of two core products:&#x20;
 
-### [**Niftory web3 API**](http://127.0.0.1:5000/o/ShoAj2x7X0erlYafyocL/s/1itXKRjyFqqWGYkUXFnP/)
+### [**Niftory web3 API**](broken-reference)
 
 The Niftory API gives developers everything they need to launch a new Web3 experience, without having to think about the blockchain or any complex infrastructure setup. You simply interact with easy-to-use GraphQL APIs that handle everything from creating custodial wallets, querying, minting and transferring tokens, and much more.
 

@@ -3,83 +3,65 @@
 * [What is Niftory?](README.md)
 * [Get your API Keys](get-your-api-keys.md)
 
-
 ## 🧑💼 Admin Portal
 
-* [What is the Niftory Admin?](README.md)
-  * [Available for Everyone!](what-is-the-niftory-admin/available-for-everyone.md)
+* [Niftory Admin Portal](admin-portal/niftory-admin-portal.md)
+* [🚀 Guides](admin-portal/guides/README.md)
+  * [Setting Up Your Org](admin-portal/guides/setting-up-your-org.md)
+  * [Create Your First NFT](admin-portal/guides/create-your-first-nft.md)
+* [🗺 Explore](admin-portal/explore/README.md)
+  * [Org and Apps](admin-portal/explore/org-and-apps.md)
+  * [NFT Collection](admin-portal/explore/nft-collection/README.md)
+    * [Sets](admin-portal/explore/nft-collection/sets.md)
+    * [Collectibles](admin-portal/explore/nft-collection/collectibles.md)
+    * [NFTs](admin-portal/explore/nft-collection/nfts.md)
+  * [Marketing](admin-portal/explore/marketing.md)
+  * [Dashboards and Analytics](admin-portal/explore/dashboards-and-analytics.md)
+* [💼 Use Cases](admin-portal/use-cases/README.md)
+  * [For Engineers](admin-portal/use-cases/for-engineers.md)
+  * [For Designers](admin-portal/use-cases/for-designers.md)
+  * [For Business Users](admin-portal/use-cases/for-business-users.md)
 
-## 🚀 Guides
+## 👩💻 API
 
-* [Setting Up Your Org](guides/setting-up-your-org.md)
-* [Create Your First NFT](guides/create-your-first-nft.md)
-
-## 🗺 Explore
-
-* [Org and Apps](explore/org-and-apps.md)
-* [NFT Collection](explore/nft-collection/README.md)
-  * [Sets](explore/nft-collection/sets.md)
-  * [Collectibles](explore/nft-collection/collectibles.md)
-  * [NFTs](explore/nft-collection/nfts.md)
-* [Marketing](explore/marketing.md)
-* [Dashboards and Analytics](explore/dashboards-and-analytics.md)
-
-## 👩💼 Use Cases
-
-* [For Engineers](use-cases/for-engineers.md)
-* [For Designers](use-cases/for-designers.md)
-* [For Business Users](use-cases/for-business-users.md)
-
-## 👩💻 Niftory web3 API
-
-* [Niftory Quickstart](getting-started/niftory-quickstart.md)
-* [SDK QuickStart](getting-started/sdk-quickstart/README.md)
-  * [Using the SDK in React](getting-started/sdk-quickstart/using-the-sdk-in-react.md)
-  * [Using the SDK from the Server](getting-started/sdk-quickstart/using-the-sdk-from-the-server.md)
-* [API Quickstart](getting-started/api-quickstart/README.md)
-  * [Create your first Wallet](getting-started/api-quickstart/create-your-first-wallet.md)
-  * [API calls with Sample Content](getting-started/api-quickstart/api-calls-with-sample-content.md)
-  * [Mint your first NFT](getting-started/api-quickstart/mint-your-first-nft.md)
-* [API Cheat Sheet](getting-started/api-cheat-sheet.md)
-* [Your Niftory Account](getting-started/your-niftory-account.md)
-* [Niftory Admin Portal](getting-started/niftory-admin-portal.md)
-
-## Sample App
-
-* [Niftory Sample App](sample-app/niftory-sample-app/README.md)
-  * [Explore the Sample App](sample-app/niftory-sample-app/explore-the-sample-app.md)
-* [Anatomy of a Niftory App](sample-app/anatomy-of-a-niftory-app/README.md)
-  * [Getting Authenticated](sample-app/anatomy-of-a-niftory-app/getting-authenticated.md)
-  * [GraphQL Client Setup](sample-app/anatomy-of-a-niftory-app/graphql-client-setup.md)
-  * [API Usage](sample-app/anatomy-of-a-niftory-app/api-usage.md)
-  * [Transfer an NFT](sample-app/anatomy-of-a-niftory-app/transfer-an-nft.md)
-
-## 💡 Core Concepts
-
-* [Niftory Data Model](core-concepts/niftory-data-model.md)
-* [Authentication](core-concepts/authentication/README.md)
-  * [Using Your API Key](core-concepts/authentication/using-your-api-key.md)
-  * [Configuring Your App](core-concepts/authentication/configuring-your-app.md)
-  * [Privileged Authentication](core-concepts/authentication/privileged-authentication.md)
-* [App and AppUser](core-concepts/app-and-appuser.md)
-* [NFTs](core-concepts/nfts/README.md)
-  * [Creating NFTs](core-concepts/nfts/creating-nfts.md)
-  * [Querying NFTs](core-concepts/nfts/querying-nfts.md)
-  * [Transferring NFTs](core-concepts/nfts/transferring-nfts.md)
-  * [Minting NFTs](core-concepts/nfts/minting-nfts.md)
-* [Wallets](core-concepts/wallets/README.md)
-  * [Create a Niftory Wallet](core-concepts/wallets/create-a-niftory-wallet.md)
-  * [Register External Wallets](core-concepts/wallets/register-external-wallets.md)
-  * [Query Wallets](core-concepts/wallets/query-wallets.md)
-* [Contract](core-concepts/contract.md)
-
-## 🤔 Additional Topics
-
-* [User Auth (Client-Side)](additional-topics/user-auth-client-side.md)
+* [Niftory Web3 API](api/niftory-quickstart.md)
+* [SDK QuickStart](api/sdk-quickstart/README.md)
+  * [Using the SDK in React](api/sdk-quickstart/using-the-sdk-in-react.md)
+  * [Using the SDK from the Server](api/sdk-quickstart/using-the-sdk-from-the-server.md)
+* [API Quickstart](api/api-quickstart/README.md)
+  * [Create your first Wallet](api/api-quickstart/create-your-first-wallet.md)
+  * [API calls with Sample Content](api/api-quickstart/api-calls-with-sample-content.md)
+  * [Mint your first NFT](api/api-quickstart/mint-your-first-nft.md)
+* [API Cheat Sheet](api/api-cheat-sheet.md)
+* [Niftory Sample App](api/niftory-sample-app/README.md)
+  * [Explore the Sample App](api/niftory-sample-app/explore-the-sample-app.md)
+  * [Anatomy of a Niftory App](api/niftory-sample-app/anatomy-of-a-niftory-app/README.md)
+    * [Getting Authenticated](api/niftory-sample-app/anatomy-of-a-niftory-app/getting-authenticated.md)
+    * [GraphQL Client Setup](api/niftory-sample-app/anatomy-of-a-niftory-app/graphql-client-setup.md)
+    * [API Usage](api/niftory-sample-app/anatomy-of-a-niftory-app/api-usage.md)
+    * [Transfer an NFT](api/niftory-sample-app/anatomy-of-a-niftory-app/transfer-an-nft.md)
+* [💡 Core Concepts](api/core-concepts/README.md)
+  * [Niftory Data Model](api/core-concepts/niftory-data-model.md)
+  * [Authentication](api/core-concepts/authentication/README.md)
+    * [Using Your API Key](api/core-concepts/authentication/using-your-api-key.md)
+    * [Configuring Your App](api/core-concepts/authentication/configuring-your-app.md)
+    * [Privileged Authentication](api/core-concepts/authentication/privileged-authentication.md)
+  * [App and AppUser](api/core-concepts/app-and-appuser.md)
+  * [NFTs](api/core-concepts/nfts/README.md)
+    * [Creating NFTs](api/core-concepts/nfts/creating-nfts.md)
+    * [Querying NFTs](api/core-concepts/nfts/querying-nfts.md)
+    * [Transferring NFTs](api/core-concepts/nfts/transferring-nfts.md)
+    * [Minting NFTs](api/core-concepts/nfts/minting-nfts.md)
+  * [Wallets](api/core-concepts/wallets/README.md)
+    * [Create a Niftory Wallet](api/core-concepts/wallets/create-a-niftory-wallet.md)
+    * [Register External Wallets](api/core-concepts/wallets/register-external-wallets.md)
+    * [Query Wallets](api/core-concepts/wallets/query-wallets.md)
+  * [Contract](api/core-concepts/contract.md)
+  * [User Auth (Client-Side)](api/core-concepts/user-auth-client-side.md)
+* [Your Niftory Account](api/your-niftory-account.md)
 
 ## 📖 Reference
 
-* [Get API Keys](core-concepts/authentication/using-your-api-key.md)
 * [GraphQL & Auth Endpoints](reference/graphql-and-auth-endpoints.md)
 * [API Reference](https://api-docs-git-staging-niftory.vercel.app/#group-Operations-Queries)
 * [SDK API Reference](https://sdk.niftory.com/)

@@ -1,10 +1,10 @@
 # GraphQL & Auth Endpoints
 
-The Niftory API is built in [**GraphQL**](https://graphql.org/)**.**&#x20;
+The Niftory API is built in [**GraphQL**](https://graphql.org/)**.**
 
 {% swagger method="post" path=" " baseUrl="https://graphql.api.staging.niftory.com/" summary="" %}
 {% swagger-description %}
-Perform any GraphQL commands and actions. 
+Perform any GraphQL commands and actions.
 {% endswagger-description %}
 
 {% swagger-parameter in="header" name="X-Niftory-API-Key" required="true" %}
@@ -12,9 +12,9 @@ Application's API Key
 {% endswagger-parameter %}
 
 {% swagger-parameter in="header" name="Authorization" required="true" %}
-Bearer token containing the user's JWT. See 
+Bearer token containing the user's JWT. See
 
-[Authenticating the User](../core-concepts/authentication/configuring-your-app.md)
+[Authenticating the User](../api/core-concepts/authentication/configuring-your-app.md)
 
 .
 {% endswagger-parameter %}
