@@ -9,7 +9,7 @@ The final core capability of the sample app is the ability to transfer NFTs to u
 Since these can be time-consuming operations, the `transfer` API schedules the work to happen asynchronously, and returns back the `NFT` that _will be_ transferred to the user. The `NFT`'s [`status`](https://api-docs-niftory.vercel.app/#definition-NFT) field tells you what is going on.
 
 {% hint style="info" %}
-Unlike the other APIs we have seen so far that are run in the context of the logged-in user, **the `transfer`API is** [**privileged**](../../../sample-app/anatomy-of-a-niftory-app/broken-reference/). As a result, you will need to call `transfer` from your application's backend.
+Unlike the other APIs we have seen so far that are run in the context of the logged-in user, **the `transfer`API is** [**privileged**](../../core-concepts/authentication/privileged-authentication.md). As a result, you will need to call `transfer` from your application's backend.
 {% endhint %}
 
 ```graphql
