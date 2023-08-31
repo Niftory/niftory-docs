@@ -3,7 +3,7 @@
 The [`transfer`](https://api-docs-niftory.vercel.app/#mutation-transfer) mutation is a privileged API that allows the application backend to transfer an NFT to a user. This API is designed to be securely used from a backend so you'll need to use a privileged token in order to use it.
 
 {% hint style="info" %}
-For more details on invoking privileged APIs, see [Niftory APIs in your backend](../../../core-concepts/nfts/broken-reference/).
+For more details on invoking privileged APIs, see [Niftory APIs in your backend](../../../core-concepts/nfts/creating-nfts.md).
 {% endhint %}
 
 The `transfer` API kicks off the following operations:
