@@ -3,25 +3,6 @@
 * [What is Niftory?](README.md)
 * [Get your API Keys](get-your-api-keys.md)
 
-## 🧑💼 Admin Portal
-
-* [Niftory Admin Portal](admin-portal/niftory-admin-portal.md)
-* [🚀 Guides](admin-portal/guides/README.md)
-  * [Setting Up Your Org](admin-portal/guides/setting-up-your-org.md)
-  * [Create Your First NFT](admin-portal/guides/create-your-first-nft.md)
-* [🗺 Explore](admin-portal/explore/README.md)
-  * [Org and Apps](admin-portal/explore/org-and-apps.md)
-  * [NFT Collection](admin-portal/explore/nft-collection/README.md)
-    * [Sets](admin-portal/explore/nft-collection/sets.md)
-    * [Collectibles](admin-portal/explore/nft-collection/collectibles.md)
-    * [NFTs](admin-portal/explore/nft-collection/nfts.md)
-  * [Marketing](admin-portal/explore/marketing.md)
-  * [Dashboards and Analytics](admin-portal/explore/dashboards-and-analytics.md)
-* [💼 Use Cases](admin-portal/use-cases/README.md)
-  * [For Engineers](admin-portal/use-cases/for-engineers.md)
-  * [For Designers](admin-portal/use-cases/for-designers.md)
-  * [For Business Users](admin-portal/use-cases/for-business-users.md)
-
 ## 👩💻 API
 
 * [Niftory Web3 API](api/niftory-quickstart.md)
@@ -59,6 +40,23 @@
   * [Contract](api/core-concepts/contract.md)
   * [User Auth (Client-Side)](api/core-concepts/user-auth-client-side.md)
 * [Your Niftory Account](api/your-niftory-account.md)
+
+## 🧑💼 Admin Portal
+
+* [Niftory Admin Portal](admin-portal/niftory-admin-portal.md)
+* [🚀 Guides](admin-portal/guides/README.md)
+  * [Setting Up Your Org](admin-portal/guides/setting-up-your-org.md)
+  * [Create Your First NFT](admin-portal/guides/create-your-first-nft.md)
+* [🗺 Explore](admin-portal/explore/README.md)
+  * [Org and Apps](admin-portal/explore/org-and-apps.md)
+  * [NFT Collection](admin-portal/explore/nft-collection/README.md)
+    * [Sets](admin-portal/explore/nft-collection/sets.md)
+    * [Collectibles](admin-portal/explore/nft-collection/collectibles.md)
+    * [NFTs](admin-portal/explore/nft-collection/nfts.md)
+* [💼 Use Cases](admin-portal/use-cases/README.md)
+  * [For Engineers](admin-portal/use-cases/for-engineers.md)
+  * [For Designers](admin-portal/use-cases/for-designers.md)
+  * [For Business Users](admin-portal/use-cases/for-business-users.md)
 
 ## 📖 Reference
 

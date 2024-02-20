@@ -3,7 +3,7 @@
 The Admin Portal is your developer dashboard to manage your application—create NFT models, handle minting, and track analytics as users interact with your NFTs. Create your account at [Niftory.com](https://niftory.com) to get started
 
 {% hint style="info" %}
-To learn more about using the Admin Portal, see the [Niftory Admin](http://127.0.0.1:5000/o/ShoAj2x7X0erlYafyocL/s/Z0zX8NOUJGEW56P5Ijke/ "mention") docs.
+To learn more about using the Admin Portal, see the [Broken link](broken-reference "mention") docs.
 {% endhint %}
 
 ### Core Concepts
@@ -17,11 +17,10 @@ The Admin Portal is organized around these constructs:
 * [**Collectibles**](https://docs.niftory.com/docs/v/niftory-admin/explore/nft-collection/collectibles)**:** A Collectible is an [**NFTModel**](https://api-docs-niftory.vercel.app/#definition-NFTModel) in the API.
 * [**NFTs**](https://docs.niftory.com/docs/v/niftory-admin/explore/nft-collection/nfts): Once you have created a Set, and a Collectible, you can mint the Collectible into NFTs.
 
-![](<../.gitbook/assets/image (24).png>)
+![](../.gitbook/assets/image%20\(24\).png)
 
 ### Quickstart Guides
 
 {% embed url="https://docs.niftory.com/docs/v/niftory-admin/guides/setting-up-your-org" %}
 
 {% embed url="https://docs.niftory.com/docs/v/niftory-admin/guides/create-your-first-nft" %}
-

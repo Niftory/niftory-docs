@@ -97,7 +97,7 @@ In this example, `NIFTORY_AUTH_ISSUER` should be the [Niftory Auth service endpo
 
 ### Admin Authentication
 
-In some situations, you may want members of your development team to log into your application and perform privileged operations. Most of these operations can be handled in the [Admin Portal](http://127.0.0.1:5000/o/ShoAj2x7X0erlYafyocL/s/Z0zX8NOUJGEW56P5Ijke/), but you can also authenticate your team members as AdminUsers instead.
+In some situations, you may want members of your development team to log into your application and perform privileged operations. Most of these operations can be handled in the [Admin Portal](broken-reference), but you can also authenticate your team members as AdminUsers instead.
 
 This works exactly like [User Authentication](privileged-authentication.md#user-authentication), but adding the `admin` scope to your OAuth configuration.
 
